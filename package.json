@@ -30,7 +30,6 @@
   },
   "homepage": "https://github.com/TryGhost/eleventy-starter-ghost#readme",
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0",
     "@11ty/eleventy-plugin-rss": "^1.1.1",
     "@tryghost/content-api": "^1.4.4",
     "@tryghost/helpers": "^1.1.6",
@@ -43,6 +42,7 @@
     "html-minifier": "^4.0.0"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^1.0.1",
     "eslint": "7.32.0",
     "eslint-plugin-ghost": "2.11.0"
   }
