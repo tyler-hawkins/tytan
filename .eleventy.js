@@ -202,10 +202,10 @@ module.exports = function (config) {
 			output: "dist"
 		},
 
-		// Files read by Eleventy, add as needed
-		// templateFormats: ["css", "njk", "md", "txt", "html", "png"],
-		// htmlTemplateEngine: "njk",
-		// markdownTemplateEngine: "njk",
-		// passthroughFileCopy: true
+		//Files read by Eleventy, add as needed
+		templateFormats: ["css", "njk", "md", "txt", "html", "png"],
+		htmlTemplateEngine: "njk",
+		markdownTemplateEngine: "njk",
+		passthroughFileCopy: true
 	};
 };
