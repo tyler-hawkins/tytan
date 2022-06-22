@@ -203,9 +203,9 @@ module.exports = function (config) {
 		},
 
 		// Files read by Eleventy, add as needed
-		templateFormats: ["css", "njk", "md", "txt", "html"],
-		htmlTemplateEngine: "njk",
-		markdownTemplateEngine: "njk",
-		passthroughFileCopy: true
+		// templateFormats: ["css", "njk", "md", "txt", "html", "png"],
+		// htmlTemplateEngine: "njk",
+		// markdownTemplateEngine: "njk",
+		// passthroughFileCopy: true
 	};
 };
