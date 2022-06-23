@@ -5,6 +5,9 @@
 	"repository": "git@github.com:tyler-hawkins/tytan.git",
 	"author": "tyler-hawkins <udlr121@gmail.com>",
 	"license": "MIT",
+	"engines": {
+		"node": ">=16.x"
+	},
 	"scripts": {
 		"build": "echo \"Building...\"",
 		"lint": "eslint . --ext .js"
