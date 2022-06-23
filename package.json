@@ -6,7 +6,7 @@
 	"author": "tyler-hawkins <udlr121@gmail.com>",
 	"license": "MIT",
 	"scripts": {
-		"build": "",
-		"lint": ""
+		"build": "echo \"Building...\"",
+		"lint": "eslint . --ext .js"
 	}
 }
