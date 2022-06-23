@@ -10,6 +10,6 @@
 		"lint": "eslint . --ext .js"
 	},
 	"dependencies": {
-		"eslint": "^8.18.0"
+		"eslint": "^16.0.0"
 	}
 }
