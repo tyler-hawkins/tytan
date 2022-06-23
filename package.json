@@ -1,8 +1,11 @@
 {
-  "name": "tytan",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "git@github.com:tyler-hawkins/tytan.git",
-  "author": "tyler-hawkins <udlr121@gmail.com>",
-  "license": "MIT"
+	"name": "tytan",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:tyler-hawkins/tytan.git",
+	"author": "tyler-hawkins <udlr121@gmail.com>",
+	"license": "MIT",
+	"scripts": {
+		"build": ""
+	}
 }
