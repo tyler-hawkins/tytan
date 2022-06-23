@@ -6,6 +6,7 @@
 	"author": "tyler-hawkins <udlr121@gmail.com>",
 	"license": "MIT",
 	"scripts": {
-		"build": ""
+		"build": "",
+		"lint": ""
 	}
 }
