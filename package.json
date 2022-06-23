@@ -8,5 +8,8 @@
 	"scripts": {
 		"build": "echo \"Building...\"",
 		"lint": "eslint . --ext .js"
+	},
+	"dependencies": {
+		"eslint": "^8.18.0"
 	}
 }
